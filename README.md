@@ -26,8 +26,8 @@ This project builds a cloud-native, IoT-ready architecture with Infrastructure a
   
 
 ## Walk-through:
- ![First try](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-/blob/main/Coronavirus.png) 
- ![First try](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-/blob/main/Coronavirus_avoid.png) 
- ![First try](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-/blob/main/Influenza%20A.png)
- ![First try](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-/blob/main/Influenza%20A%20treatment.png)
- ![CODE](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-/blob/main/Fine-Tuning%20LLMs%20with%20Hugging%20Face.txt)
+ ![First try](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC/blob/main/Diagramm.png) 
+ ![First try](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC/blob/main/VM_machine_Setup_IAC.png) 
+ ![First try](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC/blob/main/Automated_setup.png)
+ ![First try](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC/blob/main/config.png)
+
